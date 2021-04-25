@@ -7,6 +7,9 @@
 換字式暗号を復号する手助けをするツールです。
 復号自体はできません。
 
+復号している様子
+<img src="https://raw.githubusercontent.com/chiroruxx/substitution-cipher-decryption-helper/master/image.png" alt="">
+
 以下のことが可能です。
 
 - 換字済み文字のハイライト
